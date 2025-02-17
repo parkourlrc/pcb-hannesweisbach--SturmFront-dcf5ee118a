@@ -4,6 +4,8 @@
 # vim tmp files
 **/*.sw?
 
+firmware-rs/target
+
 # Prerequisites
 *.d
 
